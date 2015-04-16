@@ -1,0 +1,7 @@
+1) Increased thread sleeping time in WiiUnity_Client to give the server longer to setup. This is needed with more than one controller.
+
+2) Fixed the rumble support.
+
+3) Added support for the nunchuck accelerometers
+
+4) Added support for the infrared.

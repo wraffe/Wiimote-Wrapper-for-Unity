@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\WiiReader.cs">
+    <Files>
+      <File FileName="Assets\WiiReader.cs" Line="41" Column="37" />
+      <File FileName="Assets\Wiimote\ClientWiiState.cs" Line="1" Column="1" />
+      <File FileName="Assets\Wiimote\WiiUnity_Client.cs" Line="123" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
