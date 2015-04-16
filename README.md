@@ -6,3 +6,5 @@ This code is a wrapper for WiimoteLib: https://wiimotelib.codeplex.com/ . It exp
 This code was written for students of a gameplay programming university course so that they could work on assignments at home with free versions of Unity as well as the pro versions of Unity on campus.
 
 This is an upload of a past project and is no longer maintained.
+
+All code, other than the references mentioned above, was written by William Raffe.
